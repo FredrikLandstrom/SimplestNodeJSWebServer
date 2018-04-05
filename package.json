@@ -1,0 +1,19 @@
+{
+  "name": "simplestnodewebserver",
+  "version": "1.0.0",
+  "description": "Just a simple webserver",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FredrikLandstrom/SimplestNodeJSWebServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FredrikLandstrom/SimplestNodeJSWebServer/issues"
+  },
+  "homepage": "https://github.com/FredrikLandstrom/SimplestNodeJSWebServer#readme"
+}
