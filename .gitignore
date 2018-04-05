@@ -1,0 +1,12 @@
+.DS_Store
+node_modules
+dist
+server/conf/keys
+**/*.tmp
+**/*.log
+.sass-cache
+bower_components
+npm-debug.log
+jspm_packages
+localtools
+
