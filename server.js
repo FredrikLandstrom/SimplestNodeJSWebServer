@@ -2,7 +2,7 @@ const http    = require('http');
 const port    = 3000;
 
 const requestHandler = (request, response) => {
-  respond.end("Hello World!");
+  response.end("Hello World!");
 }
 
 const server = http.createServer(requestHandler);
